@@ -1,0 +1,7 @@
+../Drivers/B_MOTOR/B_MOTOR.c:47:6:B_MOTOR_Init	1
+../Drivers/B_MOTOR/B_MOTOR.c:66:6:B_MOTOR_ReadEncoder	1
+../Drivers/B_MOTOR/B_MOTOR.c:87:10:B_MOTOR_SETPWM	8
+../Drivers/B_MOTOR/B_MOTOR.c:104:6:B_MOTOR_PidControl	7
+../Drivers/B_MOTOR/B_MOTOR.c:145:6:T_MOTOR_Init	1
+../Drivers/B_MOTOR/B_MOTOR.c:164:6:T_MOTOR_ReadEncoder	1
+../Drivers/B_MOTOR/B_MOTOR.c:185:6:T_MOTOR_Control	5

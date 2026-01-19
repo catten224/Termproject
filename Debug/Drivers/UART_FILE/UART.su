@@ -1,0 +1,4 @@
+../Drivers/UART_FILE/UART.c:16:6:UART_Transmit_EPS32	16	static
+../Drivers/UART_FILE/UART.c:20:6:UART_Receive_ESP32	8	static
+../Drivers/UART_FILE/UART.c:26:6:UART_Command_Vaildate	16	static
+../Drivers/UART_FILE/UART.c:72:6:UART_Command_Parse	4	static
